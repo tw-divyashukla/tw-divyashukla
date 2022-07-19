@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @tw-divyashukla
-- 👀 I’m interested in Software-dev
+- 👋 Hi, I’m Divya Shukla (@tw-divyashukla)
+- 👀 I’m a Software-dev
 - 🌱 I’m currently learning full stack developement and devops
 - 💞️ I’m looking to collaborate on full stack software dev projects
 
